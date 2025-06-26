@@ -1,0 +1,1 @@
+In AI hardware accelerators, storing neural network weights efficiently is critical for performance, energy efficiency, and area optimization. Both MRAM and DRAM offer different trade-offs in this context. Here’s a comparison focused on their application in storing AI model weights, especially under PPA (Power, Performance, Area) constraints.
